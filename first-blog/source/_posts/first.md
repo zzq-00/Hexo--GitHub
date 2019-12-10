@@ -5,6 +5,7 @@ time: 2019-11-25
 
 # 使用Hexo结合GitHub Pages 搭建静态个人网站
 ## 1.安装Hexo
+**d5cb180ecc0609706449cf4548f787ca668ddae8**
 - 依赖：
     - Node,js
     - Git
